@@ -6,7 +6,7 @@ Me chamo Max Diego Ferreira da Silva, sou de Goiânia - GO e atualmente estou cu
 
 Tenho foco em suporte técnico, infraestrutura e automação de processos, com experiência prática adquirida através de projetos reais, incluindo sistemas completos, integrações com APIs e automações.
 
-Busco atuar como Analista de Suporte N1/N2, com forte atuação em troubleshooting, análise de incidentes e melhoria contínua de ambientes tecnológicos.
+Busco atuar como Analista de Suporte, com forte atuação em troubleshooting, análise de incidentes e melhoria contínua de ambientes tecnológicos.
 
 ---
 
