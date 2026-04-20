@@ -2,9 +2,11 @@
 
 **`Analista de Suporte | Infraestrutura | Automação`**
 
-Me chamo Max Diego Ferreira da Silva, sou de Goiânia - GO e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou em processo de evolução na área de tecnologia, com foco em suporte técnico, infraestrutura e automação de processos.
+Me chamo Max Diego Ferreira da Silva, sou de Goiânia - GO e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
-Busco atuar como Analista de Suporte, aplicando troubleshooting, análise de incidentes e melhoria contínua de ambientes tecnológicos. Utilizo o GitHub como vitrine para meus projetos práticos, onde simulo situações reais do dia a dia da área de TI.
+Tenho foco em suporte técnico, infraestrutura e automação de processos, com experiência prática adquirida através de projetos reais, incluindo sistemas completos, integrações com APIs e automações.
+
+Busco atuar como Analista de Suporte N1/N2, com forte atuação em troubleshooting, análise de incidentes e melhoria contínua de ambientes tecnológicos.
 
 ---
 
@@ -30,63 +32,26 @@ Busco atuar como Analista de Suporte, aplicando troubleshooting, análise de inc
 ### 🧠 Foco Profissional
 
 - 🔧 Suporte técnico N1 / N2  
-- 🖥️ Diagnóstico e resolução de incidentes  
-- ⚙️ Automação de tarefas com scripts  
-- 🌐 Fundamentos de redes e infraestrutura  
+- 🖥️ Troubleshooting e resolução de incidentes  
+- ⚙️ Automação de tarefas e processos  
+- 🌐 Infraestrutura e redes  
 - 📊 Monitoramento e análise de ambientes  
 
 ---
 
 ### 🤖 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bash" 
-    title="Bash"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Windows" 
-    title="Windows"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
-/>
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 
 <br/>
 <br/>
@@ -95,12 +60,30 @@ Busco atuar como Analista de Suporte, aplicando troubleshooting, análise de inc
 
 ### 🚀 Projetos em Destaque
 
-📌 Em construção — projetos voltados para:
+### 🔹 Lúmira (Plataforma Educacional)
+- Sistema completo voltado para correção de redações, provas e gestão educacional  
+- +2 anos de desenvolvimento contínuo  
+- +100 commits  
+- Integrações com Supabase  
+- Arquitetura moderna utilizando Python  
 
-- Automação de tarefas administrativas  
-- Simulação de atendimento e resolução de incidentes  
-- Monitoramento de serviços e logs  
-- Ferramentas práticas para suporte técnico  
+📌 *Projeto privado por conter regras de negócio e integrações sensíveis*
+
+---
+
+### 🔹 Portal Web (Next.js + Supabase)
+- Sistema com autenticação e gerenciamento de dados  
+- Estrutura modular e escalável  
+- Integração backend com Supabase  
+
+---
+
+### 🔹 Automações com n8n
+- Criação de workflows automatizados  
+- Integração com APIs externas  
+- Processos automatizados para ganho de produtividade  
+
+📌 *Projetos privados por conter chaves e integrações sensíveis*
 
 ---
 
@@ -111,17 +94,24 @@ Busco atuar como Analista de Suporte, aplicando troubleshooting, análise de inc
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Maxdifer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Maxdifer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdifer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxdifer&layout=compact&theme=tokyonight&langs_count=10&count_private=true&hide=html,css,jupyter%20notebook&cache_seconds=1" 
+/>
 </p>
 
---->
+<br clear="both"/>
+
+---
+
+### 🔒 Projetos Privados Relevantes
+
+- Sistemas completos com integração backend (Supabase)  
+- Automações com n8n e APIs externas  
+- Estruturação de aplicações web modernas  
+- Projetos com múltiplos commits e evolução contínua  
+
+📌 *Parte dos repositórios são privados para proteção de regras de negócio e segurança de dados*
